@@ -1,0 +1,24 @@
+@media (max-width: 1920px) {
+    .header-top {
+        margin-bottom: 40px;
+    }
+    .header__content-title {
+        margin-bottom: 90px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .menu__list li+li {
+        padding-left: 50px;
+    }
+    .title {
+        font-size: 75px;
+        line-height: 112px;
+    }
+    .header__content-title {
+        margin-bottom:  75px;
+    }
+    .header__content-btn {
+        padding: 30px 50px;
+    }
+}
